@@ -12,6 +12,7 @@ K = 13 -> SOMA = 78
     c) 49 (sequência de quadrados perfeitos)
     d) 100 (sequência onde cada um é o quadrado de um número par)
     e) 13 (sequência de Fibonacci)
+    f) 20 (sequência de números que não são múltiplos de 3) 
 
 5 -   Ligue o primeiro interruptor e deixe-o ligado por alguns minutos, depois desligue-o e ligue o
  segundo. Vá até a sala das lâmpadas: a lâmpada acesa é controlada pelo segundo interruptor; 
